@@ -13,7 +13,7 @@ Generate random messages for fun and inspiration!
 
 ## Introduction
 
-The Simple Random Message Generator is a lightweight application that generates random messages to offer a suggesting of food choices.
+The Simple Random Message Generator is a lightweight application that generates random messages to offer a suggestion of food choices.
 
 ## Features
 
