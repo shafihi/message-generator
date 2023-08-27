@@ -1,6 +1,6 @@
 # Simple Random Message Generator
 
-Generate random messages for fun and inspiration!
+Generate random food suggestions!
 
 ## Table of Contents
 
