@@ -13,12 +13,11 @@ Generate random messages for fun and inspiration!
 
 ## Introduction
 
-The Simple Random Message Generator is a lightweight application that generates random messages to provide a dose of fun, motivation, or inspiration. Whether you need a quick laugh or a boost of positivity, this generator has you covered.
+The Simple Random Message Generator is a lightweight application that generates random messages to offer a suggesting of food choices.
 
 ## Features
 
-- Generates random messages from a predefined list.
-- Messages include funny quotes, inspirational sayings, and more.
+- Generates random messages from a predefined list of foods.
 
 ## Getting Started
 
